@@ -14,6 +14,14 @@ The North San Antonio Hills Homeowners Association (NSAH HOA) is dedicated to ma
 """)
 st.write("""
 ## Latest News
+""")
+
+st.write("""
+## Latest News
+- [Read our most recent newsletter](https://nsah-hoa.streamlit.app/Community_News)
+""")
+
+st.write("""
 ## 🏗️**CURRENTLY UNDER CONSTRUCTION**🚧""")
 
 
