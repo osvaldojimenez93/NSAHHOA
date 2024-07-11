@@ -13,8 +13,20 @@ We are here to help! If you have any questions, concerns, or suggestions, please
 """)
 st.write("""
          ## 🏗️**CURRENTLY UNDER CONSTRUCTION**🚧
+# City Services
+| Service | Phone Number | Email |
+|---------|--------------|-------|
+| **CPS Energy** | 1 (800) 773-3077 | feedback@cpsenergy.com |
+| **SAWS Water Service** | 210-704-SAWS (7297) | N/A |
+| **District 6 Representatives** | 210-207-3749 | Online form |
 
-- **Email**: president@nsah-hoa.com
-- **Phone**: 
-- **Mailing Address**: 
+# HOA Board Members         
+| Position                | Name                 | Email                         |
+|-------------------------|----------------------|-------------------------------|
+| President (E)           | Jessica Grigsby      | president@nsah-hoa.org     |
+| Vice President (A)      | Davin Dukes          | vicepresident@nsah-hoa.org           |
+| Secretary (E)           | Cole Hudson          | secretary@nsah-hoa.org       |
+| Assistant Secretary (A) | Osvaldo 'Jim' Jimenez| assistantsecretary@nsah-hoa.org            |
+| Treasurer (E)           | Mike Dammann         | treasurer@nsah-hoa.org          |
+| Architectural Chair (A) | Miguel Sanchez       | architect@nsah-hoa.org        |
 """)
