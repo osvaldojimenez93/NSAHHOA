@@ -1,7 +1,9 @@
 import streamlit as st
 
+st.set_page_config(layout="wide", page_title="North San Antonio Hills HOA")
+
 # Setting the title of the Streamlit app
-st.title("North San Antonio Hills HOA")
+st.markdown("<h1 style='text-align: center;'>North San Antonio Hills HOA</h1>", unsafe_allow_html=True)
 st.image("assets/HOA.png", use_column_width=True)
 
 
