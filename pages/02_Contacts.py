@@ -9,7 +9,11 @@ st.image("assets/HOA.png", use_column_width=True)
 
 st.header("Contact Us")
 st.write("""
-We are here to help! If you have any questions, concerns, or suggestions, please feel free to reach out to us. You can contact the North San Antonio Hills HOA through the following means:
+We are here to help! If you have any questions, concerns, or suggestions, please feel free to reach out to us. You can contact the North San Antonio Hills HOA directly via the contacts below
+         OR submit an anonymous request using the form below:
+
+[NSAH Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAABxo201URFowOVc0NzZTVUVGSThDTTRPSzhJRVhXTC4u)
+         
 """)
 st.write("""
 # HOA Board Members         
