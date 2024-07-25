@@ -32,5 +32,5 @@ st.download_button(
 )
 
 st.write("""
-## 🏗️**CURRENTLY UNDER CONSTRUCTION**🚧
+## 🏗️**Currently Working on Gathering all pertinent documents that would be helpful to residents.**🚧
 """)

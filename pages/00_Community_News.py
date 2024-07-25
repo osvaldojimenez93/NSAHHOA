@@ -109,7 +109,7 @@ Your $50.00 a year helps to ensure your property values are protected.
 NSAH-HOA  
 4128 AUTUMN MIST  
 SAN ANTONIO, TEXAS 78253  
-**OR ONLINE AT:** [WWW.NORTHSAHILLS.COM](http://www.northsahills.com)
+
 
 ### CALLING ALL NEIGHBORS!!!
 

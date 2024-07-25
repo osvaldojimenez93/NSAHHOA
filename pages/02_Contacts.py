@@ -12,14 +12,6 @@ st.write("""
 We are here to help! If you have any questions, concerns, or suggestions, please feel free to reach out to us. You can contact the North San Antonio Hills HOA through the following means:
 """)
 st.write("""
-         ## 🏗️**CURRENTLY UNDER CONSTRUCTION**🚧
-# City Services
-| Service | Phone Number | Email |
-|---------|--------------|-------|
-| **CPS Energy** | 1 (800) 773-3077 | feedback@cpsenergy.com |
-| **SAWS Water Service** | 210-704-SAWS (7297) | N/A |
-| **District 6 Representatives** | 210-207-3749 | Online form |
-
 # HOA Board Members         
 | Position                | Name                 | Email                         |
 |-------------------------|----------------------|-------------------------------|
