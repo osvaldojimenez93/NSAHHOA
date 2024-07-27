@@ -8,13 +8,6 @@ st.set_page_config(layout="wide", page_title="North San Antonio Hills HOA")
 st.markdown("<h1 style='text-align: center;'>North San Antonio Hills HOA</h1>", unsafe_allow_html=True)
 st.image("assets/HOA.png", use_column_width=True)
 
-covenants = "documents/Restrictive Covenants.pdf"
-with open(covenants, "rb") as f:
-    covenant_bytes = f.read()
-acc = "documents/ACC Renewal.pdf"
-with open(acc, "rb") as f:
-    acc_bytes = f.read()
-
 # st.header("HOA Documents")
 st.write("""
 ## NSAH HOA Documents:
