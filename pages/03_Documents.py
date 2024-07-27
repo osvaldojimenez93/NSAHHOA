@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as components
 
 # Setting the title of the Streamlit app
 st.set_page_config(layout="wide", page_title="North San Antonio Hills HOA")
@@ -16,21 +17,8 @@ with open(acc, "rb") as f:
 
 # st.header("HOA Documents")
 st.write("""
-## Governing Documents:
+## NSAH HOA Documents:
 """)
-st.download_button(
-    label="Download Restrictive Covenants",
-    data=covenant_bytes,
-    file_name="Restrictive Covenants.pdf",
-    mime="application/pdf"
-)
-st.download_button(
-    label="Download ACC Renewal Document",
-    data=acc_bytes,
-    file_name="ACC Renewal Document.pdf",
-    mime="application/pdf"
-)
+st.link_button("Go to Documents Drive", url="https://drive.google.com/drive/folders/16esqpVfBO-1Rj1e_bneNka6UfFXtZtUw?usp=sharing")
 
-st.write("""
-## 🏗️**Currently Working on Gathering all pertinent documents that would be helpful to residents.**🚧
-""")
+
