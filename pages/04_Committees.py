@@ -17,28 +17,28 @@ st.write("""
 
 # Committees data
 committees = {
-   "City - Community Relations": [
+   "City Community Relations": [
       "Jessica Grigsby",
       "Davin Dukes",
       "Cole Hudson",
       "Osvaldo 'Jim' Jimenez"
    ],
-   "Neighborhood - Community Relations": [
+   "Neighborhood Community Relations": [
       "Davin Dukes",
       "Osvaldo 'Jim' Jimenez",
       "Kevin Mantovani",
       "Alan Tuma"
    ],
-   "Budget & Finance Committee": [
+   "Budget and Finance": [
       "Jessica Grigsby",
       "Mike Dammonn",
       "Cole Hudson"
    ],
-   "HOA Website - FB - IG": [
+   "Website and Social Media": [
       "Osvaldo Jimenez",
       "Greg Jones"
    ],
-   "Area Development/Realestate": [
+   "Development and Real Estate": [
       "Jessica Grigsby",
       "Cole Hudson",
       "Richard Ramos",
@@ -47,7 +47,7 @@ committees = {
    "Social Events Coordinator": [
       "Looking for volunteers!"
    ],
-   "Park Maintenance/Clean Up": [
+   "Park Maintenance and Clean Up": [
       "Looking for volunteers!"
    ],
    "Sign Maintenance": [
