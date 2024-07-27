@@ -19,7 +19,6 @@ Welcome to the North San Antonio Hills Homeowners Association (NSAHHOA) website 
   - `03_Documents.py`: Documents page.
   - `04_Committees.py`: Committees page.
 - **assets/**: Contains images and other static assets.
-- **documents/**: Contains PDF documents available for download.
 - **.streamlit/config.toml**: Configuration file for Streamlit.
 - **requirements.txt**: Lists the Python dependencies for the project.
 - **LICENSE**: The MIT license for the project.
