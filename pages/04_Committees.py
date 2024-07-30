@@ -31,7 +31,7 @@ committees = {
    ],
    "Budget and Finance": [
       "Jessica Grigsby",
-      "Mike Dammonn",
+      "Mike Dammann",
       "Cole Hudson"
    ],
    "Website and Social Media": [

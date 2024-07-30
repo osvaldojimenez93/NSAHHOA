@@ -13,7 +13,7 @@ st.write("""
 st.write("""
 # North San Antonio Hills Homeowners Association
 
-## June 2024 Quarterly Update
+## July 2024 Quarterly Update
 
 ### Greeting from the President & HOA Board
 
@@ -34,12 +34,12 @@ Best regards,
 
 | Position                | Name                 | Email                         |
 |-------------------------|----------------------|-------------------------------|
-| President (E)           | Jessica Grigsby      | Jgrigsby.nsah@outlook.com     |
-| Vice President (A)      | Davin Dukes          | Davduke8@gmail.com            |
-| Secretary (E)           | Cole Hudson          | m.cole.hudson@gmail.com       |
-| Assistant Secretary (A) | Osvaldo 'Jim' Jimenez| Baldo727@gmail.com            |
-| Treasurer (E)           | Mike Dammann         | mdammann@satx.rr.com          |
-| Architectural Chair (A) | Miguel Sanchez       | msanchez@meta-engr.com        |
+| President (E)           | Jessica Grigsby      | president@nsah-hoa.org     |
+| Vice President (A)      | Davin Dukes          | vicepresident@nsah-hoa.org           |
+| Secretary (E)           | Cole Hudson          | secretary@nsah-hoa.org       |
+| Assistant Secretary (A) | Osvaldo 'Jim' Jimenez| assistantsecretary@nsah-hoa.org            |
+| Treasurer (E)           | Mike Dammann         | treasurer@nsah-hoa.org          |
+| Architectural Chair (A) | Miguel Sanchez       | architect@nsah-hoa.org        |
 
 **(A) indicates appointed positions, (E) indicates elected positions**
 
@@ -86,7 +86,7 @@ By now, everyone should have received a postcard from the City Council regarding
 
 #### Architectural Control Committee
 
-All residential and commercial owners planning construction or improvements need to follow the RESTRICTIVE COVENANTS that govern our great community. These covenants can be downloaded from [www.northsahills.com](http://www.northsahills.com) or obtained from any Board member.
+All residential and commercial owners planning construction or improvements need to follow the RESTRICTIVE COVENANTS that govern our great community. These covenants can be downloaded from our documents at [nsah-hoa.org](https://www.nsah-hoa.org) or obtained from any Board member.
 
 #### Have you paid your yearly dues?
 
