@@ -10,6 +10,9 @@ st.header("Community News")
 st.write("""
     Stay updated with the latest news and announcements from the North San Antonio Hills HOA. Check back regularly for updates on community events, projects, and other important information.
     """)
+st.link_button("Previous Newsletters", url="https://drive.google.com/drive/folders/1lRPQZ_-CGeTOsJg_zlrDBBlxrothUD96?usp=sharing")
+
+
 st.write("""
 # North San Antonio Hills Homeowners Association
 
@@ -86,7 +89,7 @@ By now, everyone should have received a postcard from the City Council regarding
 
 #### Architectural Control Committee
 
-All residential and commercial owners planning construction or improvements need to follow the RESTRICTIVE COVENANTS that govern our great community. These covenants can be downloaded from our documents at [nsah-hoa.org](https://www.nsah-hoa.org) or obtained from any Board member.
+All residential and commercial owners planning construction or improvements need to follow the RESTRICTIVE COVENANTS that govern our great community. These covenants can be downloaded from our [Governing Documents at nsah-hoa.org](https://drive.google.com/drive/folders/1pC58CSJmygh5kCpaBAchsc3IZ_Cime5F?usp=sharing) or obtained from any Board member.
 
 #### Have you paid your yearly dues?
 
