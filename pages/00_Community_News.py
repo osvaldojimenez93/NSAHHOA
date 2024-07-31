@@ -48,9 +48,19 @@ Best regards,
 
 ### Community Projects and News
 
+#### Upcoming Events
+
+| Date                | Time   | Event Description                                                                 |
+|---------------------|--------|-----------------------------------------------------------------------------------|
+| Saturday, August 3  | 9am    | Roadrunner park cleanup - help drag branches to the curb and sand the picnic tables|
+| Friday, August 9    | 6:30pm | NSAH ladies dinner out at Pho Viet SA, 11310 Culebra Rd #112                       |
+| Saturday, September 7 | 6:30pm | NSAH ladies dinner out at Via 313 Pizza, 7010 W Loop 1604 N, Suite 101             |
+
+Keep an eye on www.nsah-HOA.org for more events and neighborhood news!         
+
 #### Autumn Mist Closure
 
-Over the last couple of weeks, the city has placed signage across all main roads leading to Autumn Mist to inform people of the Autumn Mist Closure in and out of Alamo Ranch. The road has been closed as of June 15th and will remain temporarily closed all summer through September 15th. The HOA and City Council will revisit the consensus for next steps based on the majority of our residents’ requests.
+Over the last couple of weeks, the city has placed signage across all main roads leading to Autumn Mist to inform people of the Autumn Mist Closure in and out of Alamo Ranch. The road has been closed as of June 15th and will remain temporarily closed all summer through September 15th. The HOA and City Council will revisit the consensus for next steps based on the majority of our residents’ requests. For questions or concerns, please contact the District 6 office at 210-207-7065 or email them at council.district6@sanantonio.gov. You can also make your voice heard at [SASpeakUp.com/AutumnMist](https://saspeakup.com/AutumnMist) . 
 """)
 st.image("assets/Autumn Mist Closure.png", use_column_width=True)
 st.write("""
@@ -110,7 +120,7 @@ Your $50.00 a year helps to ensure your property values are protected.
 **PLEASE MAIL YOUR CHECKS TO:**
 
 NSAH-HOA  
-4128 AUTUMN MIST  
+4015 Summer Breeze  
 SAN ANTONIO, TEXAS 78253  
 
 
