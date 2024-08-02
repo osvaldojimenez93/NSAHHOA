@@ -85,7 +85,7 @@ with col2:
 st.write("""
 #### Commercial Real Estate Notifications
 
-The HOA is still waiting for additional information regarding construction of the initially proposed storage unit. Plans have been designed, and the developer is still waiting for the purchase of the land to finalize. No updates regarding the sale of the property or construction have been provided to the board.
+Update regarding the storage site contruction on Misty Woods: Developer for the storage unit complex will have all required permits finalized in the coming weeks.They are targeting to break ground in September. There are no changes regarding the site plan and the developer has a full monument signage approval. The HOA board will continue to monitor the progress and provide updates as they become available.
 
 A few of you may have noticed construction equipment in and around Summer Breeze and Enchanted Sunset. Crews have begun clearing pathways to take soil samples for an additional storage complex which means we are expected to have a storage development at both entrances to the neighborhood.
 """)
