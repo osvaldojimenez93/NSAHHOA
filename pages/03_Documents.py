@@ -10,8 +10,15 @@ st.image("assets/HOA.png", use_column_width=True)
 
 # st.header("HOA Documents")
 st.write("""
-## NSAH HOA Documents:
+## NSAH HOA Community Documents:
 """)
-st.link_button("Go to Documents Drive", url="https://drive.google.com/drive/folders/16esqpVfBO-1Rj1e_bneNka6UfFXtZtUw?usp=sharing")
+st.link_button("Go to Documents Drive", url="https://drive.google.com/drive/folders/1yXwNi_VmXtBmoKjBofb7KftmJGDQebsX?usp=sharing")
+
+
+
+st.write("""
+## NSAH HOA Board Documents:
+""")
+st.link_button("Go to Documents Drive", url="https://drive.google.com/drive/folders/1UrXioC3CwTKg3OGYyd0MHuvVAdgt6auz?usp=drive_link")
 
 
