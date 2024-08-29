@@ -15,14 +15,21 @@ The North San Antonio Hills Homeowners Association (NSAH HOA) is dedicated to ma
 
 st.write("""
 ## Latest News
-- [Read our most recent newsletter](https://nsah-hoa.streamlit.app/Community_News)
-- [Give the new board feedback/ideas for improvement](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAABxo201URFowOVc0NzZTVUVGSThDTTRPSzhJRVhXTC4u)
+### From the City Councilwoman
+**Please fill out the following form to make your voice heard regarding the permanent closure of Autumn Mist at Enchanted Sunset.**  
+    **One response per household.**  
+    **Surveys from Non-North San Antonio Hills residents WILL NOT be accepted.**  
+    **Responses are due by September 11, 2024.**  
+    **There will be a follow up City Council meeting held at the NSAH City park regarding the Autumn Mist opening on September 14 at 10AM.**
+
+[Autumn Mist at Enchanted Sunset Survey](https://forms.office.com/g/cq0sBeNTSY)
 """)
+st.image("assets/Council QR.png", use_column_width=False)
 
 st.write("""
-## Contact Collection Form
-Help us keep in touch with you by providing your contact information. This will allow us to send you important updates and information about our community.
-- [Contact collection form](https://forms.office.com/r/kG3HjSEWW1)
+## Community Information Collection Forms
+- [Feedback collection form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAABxo201URFowOVc0NzZTVUVGSThDTTRPSzhJRVhXTC4u) - Give the board feedback/ideas for improvement.
+- [Contact collection form](https://forms.office.com/r/kG3HjSEWW1) - Help us keep in touch with you by providing your contact information. This will allow us to send you important updates and information about our community.
 """)
 
 st.write("""
