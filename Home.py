@@ -24,25 +24,16 @@ st.write("""
 The North San Antonio Hills Homeowners Association (NSAH HOA) is dedicated to maintaining and improving the quality of life in our community. Our website is designed to provide important information about our neighborhood, including upcoming events, news, and resources for residents.
 """)
 
-# social_media_links = [
-#     "https://www.facebook.com/profile.php?id=61564446704590&mibextid=LQQJ4d",
-#     "https://www.instagram.com/nsah_hoa?igsh=MWs0Z3F0cWx6NjIyZg=="]
-
-# social_media_icons = SocialMediaIcons(social_media_links)
-# social_media_icons.render(sidebar=True, justify_content='center')
-
 st.write("""
 ## Latest News
-### From the City Councilwoman
-**Please fill out the following form to make your voice heard regarding the permanent closure of Autumn Mist at Enchanted Sunset.**  
-    **One response per household.**  
-    **Surveys from Non-North San Antonio Hills residents WILL NOT be accepted.**  
-    **Responses are due by September 11, 2024.**  
-    **There will be a follow up City Council meeting held at the NSAH City park regarding the Autumn Mist opening on September 14 at 10AM.**
-
-[Autumn Mist at Enchanted Sunset Survey](https://forms.office.com/g/cq0sBeNTSY)
 """)
-st.image("assets/Council QR.png", use_column_width=False)
+st.image("assets/Halloween2024.png", use_column_width=True)
+
+st.write("""
+- **Volunteers Needed for Halloween Event!** Use [This Link](https://www.signupgenius.com/go/8050B4AA9A823A1FB6-51200674-halloween) to sign up to volunteer.
+
+- In order to ensure judicious spending of your HOA dues, we would appreciate your RSVP for the Halloween event. Please use [This Link](https://www.signupgenius.com/go/8050B4AA9A823A1FB6-51201346-halloween) to RSVP.**
+         """)
 
 st.write("""
 ## Community Information Collection Forms
