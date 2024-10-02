@@ -27,13 +27,20 @@ The North San Antonio Hills Homeowners Association (NSAH HOA) is dedicated to ma
 st.write("""
 ## Latest News
 """)
-st.image("assets/Halloween2024.png", use_column_width=True)
 
 st.write("""
 - **Volunteers Needed for Halloween Event!** Use [This Link](https://www.signupgenius.com/go/8050B4AA9A823A1FB6-51200674-halloween) to sign up to volunteer.
 
 - In order to ensure judicious spending of your HOA dues, we would appreciate your RSVP for the Halloween event. Please use [This Link](https://www.signupgenius.com/go/8050B4AA9A823A1FB6-51201346-halloween) to RSVP.**
          """)
+col1, col2 = st.columns(2)
+
+with col1:
+    st.image("assets/Halloween2024.png", use_column_width=True)
+with col2:
+    st.image("assets/Halloween(2).png", use_column_width=True )
+
+
 
 st.write("""
 ## Community Information Collection Forms
