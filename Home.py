@@ -29,16 +29,19 @@ st.write("""
 """)
 
 st.write("""
-- **Volunteers Needed for Halloween Event!** Use [This Link](https://www.signupgenius.com/go/8050B4AA9A823A1FB6-51200674-halloween) to sign up to volunteer.
+🎅🏼 Santa is coming to North San Antonio Hills on December 12th!
 
-- In order to ensure judicious spending of your HOA dues, we would appreciate your RSVP for the Halloween event. Please use [This Link](https://www.signupgenius.com/go/8050B4AA9A823A1FB6-51201346-halloween) to RSVP.**
-         """)
+🌲 Santa will arrive at North San Antonio Hills City Park at 6:30 PM, followed by the fire truck at 6:45 PM to begin the neighborhood route. 
+
+🚒 Track Santa and his Elf on the fire truck by scanning the GroupMe link. 
+
+📮 We’re also excited to announce our “Letter to Santa” drop-off location! You can drop off your letters starting December 1st.""")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image("assets/Halloween2024.png", use_column_width=True)
+    st.image("assets/Sana_Firetruck.png", use_column_width=True)
 with col2:
-    st.image("assets/Halloween(2).png", use_column_width=True )
+    st.image("assets/Santa_Letters.png", use_column_width=True )
 
 
 
