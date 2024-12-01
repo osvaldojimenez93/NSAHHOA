@@ -1,5 +1,6 @@
 import streamlit as st
 from st_social_media_links import SocialMediaIcons
+import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide", page_title="North San Antonio Hills HOA")
 
@@ -28,20 +29,12 @@ st.write("""
 ## Latest News
 """)
 
-st.write("""
-🎅🏼 Santa is coming to North San Antonio Hills on December 12th!
-
-🌲 Santa will arrive at North San Antonio Hills City Park at 6:30 PM, followed by the fire truck at 6:45 PM to begin the neighborhood route. 
-
-🚒 Track Santa and his Elf on the fire truck by scanning the GroupMe link. 
-
-📮 We’re also excited to announce our “Letter to Santa” drop-off location! You can drop off your letters starting December 1st.""")
-col1, col2 = st.columns(2)
-
-with col1:
-    st.image("assets/Sana_Firetruck.png", use_column_width=True)
-with col2:
-    st.image("assets/Santa_Letters.png", use_column_width=True )
+with st.container():
+    components.html("""
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61564446704590%26mibextid%3DLQQJ4d&tabs=timeline&width=1200&height=600&small_header=true&adapt_container_width=false&hide_cover=true&show_facepile=false&appId" 
+        width="1200" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" 
+        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    """, width=500, height=600)
 
 
 
