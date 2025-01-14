@@ -14,7 +14,7 @@ social_media_icons.render(sidebar=True, justify_content='center')
 st.markdown("<h1 style='text-align: center;'>North San Antonio Hills HOA</h1>", unsafe_allow_html=True)
 st.markdown("<h4 style = 'text-align: center;'>Follow us on social media</h4>", unsafe_allow_html=True)
 social_media_icons.render(sidebar=False, justify_content='center')
-st.image("assets/HOA.png", use_column_width=True)
+st.image("assets/HOA.png", use_container_width=True)
 
 st.header("Community News")
 st.write("""
@@ -72,7 +72,7 @@ Keep an eye on www.nsah-HOA.org for more events and neighborhood news!
 
 Over the last couple of weeks, the city has placed signage across all main roads leading to Autumn Mist to inform people of the Autumn Mist Closure in and out of Alamo Ranch. The road has been closed as of June 15th and will remain temporarily closed all summer through September 15th. The HOA and City Council will revisit the consensus for next steps based on the majority of our residents’ requests. For questions or concerns, please contact the District 6 office at 210-207-7065 or email them at council.district6@sanantonio.gov. You can also make your voice heard at [SASpeakUp.com/AutumnMist](https://saspeakup.com/AutumnMist) . 
 """)
-st.image("assets/Autumn Mist Closure.png", use_column_width=True)
+st.image("assets/Autumn Mist Closure.png", use_container_width=True)
 st.write("""
 #### 1604 Access Road Slowdown Lane
 
@@ -87,10 +87,10 @@ col1, col2 = st.columns(2)
 
 # Displaying the images side by side
 with col1:
-    st.image("assets/Encampment 1.jpg", use_column_width=True)
+    st.image("assets/Encampment 1.jpg", use_container_width=True)
 
 with col2:
-    st.image("assets/Encampment 2.jpg", use_column_width=True)
+    st.image("assets/Encampment 2.jpg", use_container_width=True)
 
 st.write("""
 #### Commercial Real Estate Notifications
@@ -99,7 +99,7 @@ Update regarding the storage site contruction on Misty Woods: Developer for the 
 
 A few of you may have noticed construction equipment in and around Summer Breeze and Enchanted Sunset. Crews have begun clearing pathways to take soil samples for an additional storage complex which means we are expected to have a storage development at both entrances to the neighborhood.
 """)
-st.image("assets/Construction Equipment.jpg", use_column_width=False)
+st.image("assets/Construction Equipment.jpg", use_container_width=False)
 st.write("""
 #### City Councilwoman Point of Contact for NSAH Residents
 

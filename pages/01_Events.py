@@ -15,7 +15,7 @@ social_media_icons.render(sidebar=True, justify_content='center')
 st.markdown("<h1 style='text-align: center;'>North San Antonio Hills HOA</h1>", unsafe_allow_html=True)
 st.markdown("<h4 style = 'text-align: center;'>Follow us on social media</h4>", unsafe_allow_html=True)
 social_media_icons.render(sidebar=False, justify_content='center')
-st.image("assets/HOA.png", use_column_width=True)
+st.image("assets/HOA.png", use_container_width=True)
 
 st.header("Upcoming Events")
 st.write("""
