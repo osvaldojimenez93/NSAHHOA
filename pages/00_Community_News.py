@@ -26,35 +26,34 @@ st.link_button("Previous Newsletters", url="https://drive.google.com/drive/folde
 st.write("""
 # North San Antonio Hills Homeowners Association
 
-## July 2024 Quarterly Update
+## February 2025 Quarterly Update
 
 ### Greeting from the President & HOA Board
 
 #### Hello Neighbors,
 
-Thank you to everyone who attended the recent meeting and for your vote of trust and confidence. As your newly elected President, I am excited to serve our community alongside the new HOA board. We will work diligently to inform and represent all members of the HOA equally and fairly, ensuring that everyone's opinion is heard and making all decisions impartially.
+As we welcome the new year, your HOA Board is excited to continue working with our community to maintain and improve the wonderful neighborhood we all call home. 
 
-Our vision is to foster a strong, inclusive community and enhance property values. The strength of our neighborhood lies in the unity and collaboration of its members. The HOA is here to support you and address any concerns. We are committed to maintaining the aesthetics, safety, and facilities of our community to ensure resident satisfaction. Throughout the year, we will organize events and workshops to engage with neighbors. Your participation and feedback are vital in shaping our community's future.
+In this newsletter, you’ll find updates on ongoing projects, important news from our established committees, and some upcoming events to look forward to this year.
 
-Please feel free to reach out to us with any suggestions, questions, or if you wish to get involved in community initiatives. Together, we can make a significant and positive impact on our beloved neighborhood.
+We encourage everyone to get involved in community activities and share ideas to enhance our neighborhood via our HOA website at nsah-hoa.org. Together, we can make 2025 another great year for our community and residents!
 
-We are excited to serve you as the newly elected board this year.
 
 Best regards,  
-**Jessica Grigsby**
+**Davin Dukes**
+HOA Vice President
 
 ### NSAH Board of Directors 2024-2025
 
 | Position                | Name                 | Email                         |
 |-------------------------|----------------------|-------------------------------|
-| President (E)           | Jessica Grigsby      | president@nsah-hoa.org     |
-| Vice President (A)      | Davin Dukes          | vicepresident@nsah-hoa.org           |
-| Secretary (E)           | Cole Hudson          | secretary@nsah-hoa.org       |
-| Assistant Secretary (A) | Osvaldo 'Jim' Jimenez| assistantsecretary@nsah-hoa.org            |
-| Treasurer (E)           | Mike Dammann         | treasurer@nsah-hoa.org          |
-| Architectural Chair (A) | Miguel Sanchez       | architect@nsah-hoa.org        |
+| President            | Jessica Grigsby      | president@nsah-hoa.org     |
+| Vice President       | Davin Dukes          | vicepresident@nsah-hoa.org           |
+| Secretary            | Cole Hudson          | secretary@nsah-hoa.org       |
+| Assistant Secretary  | Osvaldo 'Jim' Jimenez| assistantsecretary@nsah-hoa.org            |
+| Treasurer            | Mike Dammann         | treasurer@nsah-hoa.org          |
+| Architectural Chair  | Miguel Sanchez       | architect@nsah-hoa.org        |
 
-**(A) indicates appointed positions, (E) indicates elected positions**
 
 ### Community Projects and News
 
@@ -62,48 +61,38 @@ Best regards,
 
 | Date                | Time   | Event Description                                                                 |
 |---------------------|--------|-----------------------------------------------------------------------------------|
-| Saturday, August 3  | 9am    | Roadrunner park cleanup - help drag branches to the curb and sand the picnic tables|
-| Friday, August 9    | 6:30pm | NSAH ladies dinner out at Pho Viet SA, 11310 Culebra Rd #112                       |
-| Saturday, September 7 | 6:30pm | NSAH ladies dinner out at Via 313 Pizza, 7010 W Loop 1604 N, Suite 101             |
+| Saturday, March 29  | 9am    | Annual NSAH HOA Breakfast in the Park|
+| Saturday, April 26  | 10-11:30am | Clean Up day/Volunteer Opportunity|
+
 
 Keep an eye on www.nsah-HOA.org for more events and neighborhood news!         
 
-#### Autumn Mist Closure
+#### Area Beautification
 
-Over the last couple of weeks, the city has placed signage across all main roads leading to Autumn Mist to inform people of the Autumn Mist Closure in and out of Alamo Ranch. The road has been closed as of June 15th and will remain temporarily closed all summer through September 15th. The HOA and City Council will revisit the consensus for next steps based on the majority of our residents’ requests. For questions or concerns, please contact the District 6 office at 210-207-7065 or email them at council.district6@sanantonio.gov. You can also make your voice heard at [SASpeakUp.com/AutumnMist](https://saspeakup.com/AutumnMist) . 
-""")
-st.image("assets/Autumn Mist Closure.png", use_container_width=True)
+Roadrunner Park Maintenance: Community volunteers recently came together to clean and revitalize the park. Old rotting benches were removed, and overgrown areas were cleared, making the space safer and more inviting for all residents. Overall maintenance and upkeep of overgrowth has been provided on a volunteer basis by residents helping cut the grass with their mowing equipment. """)
+st.image("assets/Maintenance.png", use_container_width=True)
 st.write("""
-#### 1604 Access Road Slowdown Lane
-
-According to city staff, the construction of the deceleration lane is scheduled to begin in the fall. The HOA board will be in close communication with the District 6 office and will provide more details as they become available.
-
-#### Homeless Encampments
-
-Please be aware and remain cautious around the Misty Woods and 1604 greenbelt. It has come to our attention that there is a homeless encampment in the area with approximately 10-20 individuals. The Department of Human Services will be assessing the location and then schedule an abatement (clean-up) of the property.
-""")
-# Creating a streamlit container with 2 columns
-col1, col2 = st.columns(2)
-
-# Displaying the images side by side
-with col1:
-    st.image("assets/Encampment 1.jpg", use_container_width=True)
-
-with col2:
-    st.image("assets/Encampment 2.jpg", use_container_width=True)
-
+HOA Sign Maintenance: A very special thanks to our neighbor Jana Mantovani for taking the lead on beautifying our HOA entrance sign. It underwent power washing, cleanup, and existing lighting was fixed to ensure better visibility for those entering our neighborhood.""")
+st.image("assets/HOANight.png", use_container_width=True)
 st.write("""
-#### Commercial Real Estate Notifications
+#### Join us for a Clean-Up Day! 
 
-Update regarding the storage site contruction on Misty Woods: Developer for the storage unit complex will have all required permits finalized in the coming weeks.They are targeting to break ground in September. There are no changes regarding the site plan and the developer has a full monument signage approval. The HOA board will continue to monitor the progress and provide updates as they become available.
+**What:** Help make our community a cleaner, greener place by volunteering to pick up litter.  
+**When:** SATURDAY, APRIL 26 @ 10:00 AM  
+**Where:** Meet at the dentists’ office by Nardis Gun Club to help pick up trash along the frontage road between Valley Meadow and Misty Woods.  
+**Contact:** Jana Mantovani @ (210) 779-8030
 
-A few of you may have noticed construction equipment in and around Summer Breeze and Enchanted Sunset. Crews have begun clearing pathways to take soil samples for an additional storage complex which means we are expected to have a storage development at both entrances to the neighborhood.
 """)
-st.image("assets/Construction Equipment.jpg", use_container_width=False)
 st.write("""
-#### City Councilwoman Point of Contact for NSAH Residents
+#### City and TxDOT Communications
 
-By now, everyone should have received a postcard from the City Council regarding the June 15th closure. They are interested in hearing your thoughts and collecting additional feedback through the temporary closure.
+Deceleration lane at the valley meadow entrance is set to begin at the end of February. The board will keep in contact with the city on updates/delays/expected completion times. 
+
+If you have not had a chance to venture to the southwest end of the neighborhood, the City park improvements are now complete and include a new play area for kids. 
+
+### Commercial Real Estate Notifications
+
+Update regarding the storage site construction on Misty Woods: Construction is well underway as everyone can see when driving by the misty woods exit. Construction was started ~1 month late in October and is expected to take a full year to complete. The board is aware of the stop sign in that area being rotated as construction equipment flows in and out of the area. We are in contact with the contractor and they have acknowledged they will fix the stop sign. There is a new monument that is expected to be built after construction is complete along with a brick retaining wall built at the rear of the property. 
 
 ### HOA Business
 
