@@ -1,6 +1,5 @@
 import streamlit as st
 import streamlit.components.v1 as components
-# from st_social_media_links import SocialMediaIcons
 from components.PageTemplate import render_page_template
 
 render_page_template("HOA Documents")
